@@ -1,0 +1,11 @@
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.exe.config
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.exe
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csprojResolveAssemblyReference.cache
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.Form1.resources
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.Form2.resources
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.Properties.Resources.resources
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csproj.GenerateResource.Cache
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.exe
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.pdb
+c:\users\ricky\documents\visual studio 2015\Projects\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.Form3.resources
