@@ -40,7 +40,10 @@
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.menuStrip2 = new System.Windows.Forms.MenuStrip();
             this.profilToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.berandaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.profilToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tentangKamiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -154,8 +157,7 @@
             // 
             this.menuStrip2.BackColor = System.Drawing.SystemColors.Highlight;
             this.menuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.profilToolStripMenuItem,
-            this.logoutToolStripMenuItem});
+            this.profilToolStripMenuItem});
             this.menuStrip2.Location = new System.Drawing.Point(0, 0);
             this.menuStrip2.Name = "menuStrip2";
             this.menuStrip2.Size = new System.Drawing.Size(639, 24);
@@ -165,18 +167,39 @@
             // profilToolStripMenuItem
             // 
             this.profilToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.profilToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.berandaToolStripMenuItem,
+            this.profilToolStripMenuItem1,
+            this.logoutToolStripMenuItem,
+            this.tentangKamiToolStripMenuItem});
             this.profilToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.profilToolStripMenuItem.Name = "profilToolStripMenuItem";
-            this.profilToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
-            this.profilToolStripMenuItem.Text = "Profil";
+            this.profilToolStripMenuItem.Size = new System.Drawing.Size(51, 20);
+            this.profilToolStripMenuItem.Text = "U-Bus";
+            // 
+            // berandaToolStripMenuItem
+            // 
+            this.berandaToolStripMenuItem.Name = "berandaToolStripMenuItem";
+            this.berandaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.berandaToolStripMenuItem.Text = "Beranda";
+            // 
+            // profilToolStripMenuItem1
+            // 
+            this.profilToolStripMenuItem1.Name = "profilToolStripMenuItem1";
+            this.profilToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.profilToolStripMenuItem1.Text = "Profil";
             // 
             // logoutToolStripMenuItem
             // 
-            this.logoutToolStripMenuItem.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.logoutToolStripMenuItem.Name = "logoutToolStripMenuItem";
-            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
+            this.logoutToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.logoutToolStripMenuItem.Text = "Logout";
-            this.logoutToolStripMenuItem.Click += new System.EventHandler(this.logoutToolStripMenuItem_Click);
+            // 
+            // tentangKamiToolStripMenuItem
+            // 
+            this.tentangKamiToolStripMenuItem.Name = "tentangKamiToolStripMenuItem";
+            this.tentangKamiToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.tentangKamiToolStripMenuItem.Text = "Tentang Kami";
             // 
             // Form2
             // 
@@ -222,6 +245,9 @@
         private System.Windows.Forms.PictureBox pictureBox5;
         private System.Windows.Forms.MenuStrip menuStrip2;
         private System.Windows.Forms.ToolStripMenuItem profilToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem berandaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem profilToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem logoutToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tentangKamiToolStripMenuItem;
     }
 }
